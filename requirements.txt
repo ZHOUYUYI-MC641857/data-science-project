@@ -1,0 +1,13 @@
+pandas
+numpy
+geopandas
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+xgboost
+folium
+plotly
+jupyter
+shapely
+pyproj
